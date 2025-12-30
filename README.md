@@ -1,34 +1,25 @@
-# Hi, I’m Shravan 👋
+# Hi, I’m Shravan
 
-I was never the kid who stuck to one thing.  
-If something sparked my curiosity, I had to take it apart. Hardware. Code. Ideas.  
-That habit never stopped. It just evolved into how I build today.
+I’ve never been wired to stick to one thing.  
+If something caught my attention, I pulled it apart. Hardware, code, systems, ideas.  
+That instinct never faded. It became the foundation of how I learn and build.
 
 ## About Me
 
-I’m a 3rd-year Computer Science student at **VIT Vellore** who thrives on learning across domains.
+I’m a 3rd-year Computer Science student at **VIT Vellore** with a strong bias toward depth through exploration.
 
-On any given day, I might be:
-- Optimizing a **MySQL** database schema  
-- Wiring an **AI model** into a **Flask** backend  
-- Experimenting with **system design** using **React** and **FastAPI**
+I work across the stack based on the problem at hand:
+- Designing and optimizing **MySQL** schemas for correctness and performance  
+- Integrating **AI models** into **Flask** backends  
+- Exploring **system design** using **React** and **FastAPI**
 
-I don’t chase titles. I chase understanding.
+I don’t chase titles or predefined roles. I chase understanding.
 
-## How I Think
+What began as curiosity-driven tinkering evolved into a mindset. I see technology as a set of **interconnected systems**, not isolated tools or frameworks. That perspective has shaped the projects I build, including **AI-driven interview assistants** and **inventory management systems** that aim to reduce real-world complexity.
 
-What started as tinkering turned into a mindset.
+Each project is less about the output and more about how it sharpens my thinking. I care about learning that changes how I reason, not just what I can use.
 
-I see technology not as isolated skills, but as **connected systems** built to solve real problems.  
-That approach has led me to build:
-- AI-driven interview assistants  
-- Inventory management systems that bring structure to chaos  
-
-Each project teaches me a new way to think, not just a new tool to use.
-
-## Philosophy
-
-People might call me a *jack of all trades*.  
+Some might call this being a jack of all trades.  
 I prefer **curious engineer**.
 
-In a world that keeps changing, curiosity is the edge that keeps me building.
+In a field that keeps changing, curiosity is not optional. It’s the edge that keeps me building.
