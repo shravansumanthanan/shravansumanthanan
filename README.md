@@ -6,7 +6,7 @@ That instinct never faded. It became the foundation of how I learn and build.
 
 ## About Me
 
-I’m a 3rd-year Computer Science student at **VIT Vellore** with a strong bias toward depth through exploration.
+I’m a Computer Science student at **VIT Vellore** with a strong bias toward depth through exploration.
 
 I work across the stack based on the problem at hand:
 - Designing and optimizing **MySQL** schemas for correctness and performance  
